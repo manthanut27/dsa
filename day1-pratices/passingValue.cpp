@@ -21,6 +21,4 @@ int main () {
 
     obj2.PassbyReference(y);
     cout << y << endl;
-
-
 }
